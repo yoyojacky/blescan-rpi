@@ -6,6 +6,6 @@ It is a BLE scanning program for your Raspberry Pi 3 Module B, based on C langua
 * chmod +x install.sh 
 * bash install.sh 
 * ./blescan
-====
+----
 Note: It been tested on Raspberry Pi 3 Module B with Raspbian OS.
 ----
